@@ -1,0 +1,93 @@
+[
+  {
+    "id": "PER-FC1A5A07",
+    "ad": "Murat",
+    "soyad": "Poyraz",
+    "email": "aa@hotmail.com",
+    "telefon": "+905494970050",
+    "unvan": "Proje müdürü",
+    "aktifMi": true,
+    "rolId": "",
+    "createdAt": "2026-02-19T22:36:11.231104",
+    "updatedAt": "2026-03-01T00:23:49.200319",
+    "deleted": false
+  },
+  {
+    "id": "PER-DAAEB4D9",
+    "ad": "ebubekir",
+    "soyad": "altan",
+    "email": "bb@hotmail.com",
+    "telefon": "+905555555",
+    "unvan": "Montaj ustası",
+    "aktifMi": true,
+    "rolId": "ROL-7BDE5915",
+    "createdAt": "2026-02-19T22:36:45.133371",
+    "updatedAt": "2026-02-23T15:53:43.279173",
+    "deleted": false
+  },
+  {
+    "id": "PER-4099BB74",
+    "ad": "Evren",
+    "soyad": "Bilgili",
+    "email": "cc@hotmail.com",
+    "telefon": "+905459253306",
+    "unvan": "Yönetici",
+    "aktifMi": true,
+    "rolId": "ROL-7E322C69",
+    "createdAt": "2026-02-19T22:38:17.708754",
+    "updatedAt": "2026-02-19T22:38:17.708754",
+    "deleted": false
+  },
+  {
+    "id": "PER-218D6547",
+    "ad": "deneme1",
+    "soyad": "deneme",
+    "email": "as@hotmail.com",
+    "telefon": "",
+    "unvan": "",
+    "aktifMi": true,
+    "rolId": "ROL-7BDE5915",
+    "createdAt": "2026-02-23T15:57:06.205366",
+    "updatedAt": "2026-02-23T15:57:06.205366",
+    "deleted": false
+  },
+  {
+    "id": "PER-D1F6C161",
+    "ad": "montaj1",
+    "soyad": "m",
+    "email": "m@hotmail.com",
+    "telefon": "",
+    "unvan": "",
+    "aktifMi": true,
+    "rolId": "ROL-7BDE5915",
+    "createdAt": "2026-02-23T16:09:53.835773",
+    "updatedAt": "2026-02-23T16:09:53.835773",
+    "deleted": false
+  },
+  {
+    "id": "PER-D647F418",
+    "ad": "test",
+    "soyad": "test",
+    "email": "t@hotmail.com",
+    "telefon": "",
+    "unvan": "",
+    "aktifMi": true,
+    "rolId": "",
+    "createdAt": "2026-02-26T22:15:04.735277",
+    "updatedAt": "2026-02-26T22:15:04.735277",
+    "deleted": false
+  },
+  {
+    "id": "PER-7EE2C59B",
+    "ad": "rol",
+    "soyad": "test",
+    "email": "t@h.com",
+    "telefon": "",
+    "unvan": "",
+    "aktifMi": true,
+    "rolId": "",
+    "createdAt": "2026-03-01T12:50:01.593903",
+    "updatedAt": "2026-03-01T12:50:01.593903",
+    "deleted": false
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "SUP-A5C7AA39",
+    "name": "Net Metal Destek Sacı",
+    "type": "manufacturer",
+    "category": "SCAT-5AB71854",
+    "supplyType": "stock",
+    "jobRoleId": null,
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": "",
+      "contactPerson": "Adnan"
+    },
+    "leadTimeDays": 20,
+    "rating": 0,
+    "notes": "",
+    "createdAt": "2026-02-28T17:04:02.233522"
+  },
+  {
+    "id": "SUP-A0F91ECF",
+    "name": "Artı Yapı",
+    "type": "manufacturer",
+    "category": "SCAT-05",
+    "supplyType": "stock",
+    "contact": {
+      "phone": "0545 634 23 07",
+      "email": "",
+      "address": "",
+      "contactPerson": "Uğur"
+    },
+    "leadTimeDays": 14,
+    "rating": 0,
+    "notes": "",
+    "createdAt": "2026-02-20T09:56:25.126313"
+  },
+  {
+    "id": "SUP-2509A33F",
+    "name": "IQ Alüminyum",
+    "type": "manufacturer",
+    "category": "SCAT-10",
+    "supplyType": "stock",
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": "",
+      "contactPerson": "Fatih"
+    },
+    "leadTimeDays": 25,
+    "rating": 0,
+    "notes": "",
+    "createdAt": "2026-02-20T09:54:17.158361"
+  },
+  {
+    "id": "SUP-868EF234",
+    "name": "Niğcam",
+    "type": "manufacturer",
+    "category": "SCAT-03",
+    "supplyType": "glass",
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": "",
+      "contactPerson": "Nilgün"
+    },
+    "leadTimeDays": 15,
+    "rating": 0,
+    "notes": "",
+    "createdAt": "2026-02-20T09:53:44.305943"
+  },
+  {
+    "id": "SUP-44ADB79C",
+    "name": "Ege Profil",
+    "type": "manufacturer",
+    "category": "SCAT-01",
+    "supplyType": "stock",
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": "",
+      "contactPerson": "Çağrı"
+    },
+    "leadTimeDays": 25,
+    "rating": 0,
+    "notes": "",
+    "createdAt": "2026-02-19T19:24:40.984762"
+  }
+]

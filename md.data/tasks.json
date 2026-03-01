@@ -1,0 +1,28 @@
+[
+  {
+    "id": "TSK-1AF73892",
+    "baslik": "test",
+    "aciklama": "test",
+    "oncelik": "med",
+    "durum": "todo",
+    "baslangicTarihi": "2026-02-23T00:00:00",
+    "bitisTarihi": "2026-02-26T00:00:00",
+    "createdBy": "USER-ADMIN",
+    "createdAt": "2026-02-23T16:12:38.880626",
+    "updatedAt": "2026-02-23T16:12:38.880626",
+    "deleted": false
+  },
+  {
+    "id": "TSK-6D735641",
+    "baslik": "a1",
+    "aciklama": "",
+    "oncelik": "med",
+    "durum": "todo",
+    "baslangicTarihi": "2026-02-23T00:00:00",
+    "bitisTarihi": "",
+    "createdBy": "USER-ADMIN",
+    "createdAt": "2026-02-23T17:07:18.503359",
+    "updatedAt": "2026-02-23T17:07:18.503359",
+    "deleted": false
+  }
+]

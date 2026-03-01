@@ -1,0 +1,69 @@
+[
+  {
+    "id": "MOV-D1F6DCE8",
+    "date": "2026-02-23",
+    "item": "Carisma Kasa",
+    "itemId": "STK-34F46D1F",
+    "productCode": "18300",
+    "colorCode": "3",
+    "change": -1,
+    "type": "stockOut",
+    "reason": "Üretime alındı - 2026020002",
+    "operator": "Sistem",
+    "jobId": "2026020002"
+  },
+  {
+    "id": "MOV-BE52D479",
+    "date": "2026-02-20",
+    "item": "Carisma Kasa",
+    "itemId": "STK-34F46D1F",
+    "productCode": "18300",
+    "colorCode": "3",
+    "change": 5,
+    "type": "stockIn",
+    "reason": "Sipariş teslimi - PO-260210-001",
+    "operator": "Murat Poyraz",
+    "reference": "PO-260210-001"
+  },
+  {
+    "id": "MOV-DB0439EC",
+    "date": "2026-02-20",
+    "item": "USS 24mm Cam Takozu",
+    "itemId": "STK-3E3DD8BC",
+    "productCode": "001",
+    "colorCode": "0",
+    "change": 1000,
+    "type": "stockIn",
+    "reason": "Sipariş teslimi - PO-260220-001",
+    "operator": "Evren Bilgili",
+    "reference": "PO-260220-001"
+  },
+  {
+    "id": "MOV-F2339594",
+    "date": "2026-02-19",
+    "item": "Carisma Kasa",
+    "itemId": "STK-34F46D1F",
+    "productCode": "18300",
+    "colorCode": "3",
+    "change": -2.0,
+    "type": "stockOut",
+    "reason": "test",
+    "operator": "Sistem",
+    "reference": null,
+    "jobId": null
+  },
+  {
+    "id": "MOV-1970DAE1",
+    "date": "2026-02-19",
+    "item": "Carisma Kasa",
+    "itemId": "STK-34F46D1F",
+    "productCode": "18300",
+    "colorCode": "3",
+    "change": 50.0,
+    "type": "stockIn",
+    "reason": "deneme",
+    "operator": "Sistem",
+    "reference": null,
+    "jobId": "2026020002"
+  }
+]

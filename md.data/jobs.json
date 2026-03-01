@@ -1,0 +1,742 @@
+[
+  {
+    "id": "2026020007",
+    "title": "silme test",
+    "customerId": "CST-D985CFB7",
+    "customerName": "deneme",
+    "status": "OLCU_RANDEVU_BEKLIYOR",
+    "startType": "OLCU",
+    "roles": [
+      {
+        "id": "ROLE-01",
+        "name": "PVC Doğrama",
+        "description": "PVC pencere, kapı sistemleri",
+        "productionType": "internal",
+        "requiresGlass": true,
+        "defaultGlassSupplier": null,
+        "estimatedDays": 5,
+        "active": true,
+        "assemblyStages": [
+          {
+            "id": "STG-PVC-01",
+            "name": "PVC Montaj",
+            "order": 1
+          },
+          {
+            "id": "STG-F37398B7",
+            "name": "Vidalama",
+            "order": 2
+          },
+          {
+            "id": "STG-PVC-02",
+            "name": "Cam Takma",
+            "order": 3
+          },
+          {
+            "id": "STG-PVC-03",
+            "name": "Silikon/Bitirme",
+            "order": 4
+          }
+        ],
+        "defaultSupplier": null,
+        "updatedAt": "2026-02-03T19:17:01.363331"
+      }
+    ],
+    "measure": {},
+    "offer": {},
+    "approval": {},
+    "stock": {},
+    "production": {},
+    "assembly": {},
+    "finance": {},
+    "service": {},
+    "roleFiles": {},
+    "rolePrices": {},
+    "logs": [
+      {
+        "at": "2026-02-28T18:51:11.500680",
+        "action": "created",
+        "note": "startType=OLCU",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-28T19:00:46.274309",
+        "action": "deleted",
+        "note": "İş silindi - Sistem Yöneticisi",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      }
+    ],
+    "createdAt": "2026-02-28T18:51:11.500680",
+    "deleted": true,
+    "deletedAt": "2026-02-28T19:00:46.274309",
+    "deletedBy": "USER-ADMIN",
+    "deletedByName": "Sistem Yöneticisi"
+  },
+  {
+    "id": "2026020006",
+    "title": "otomasyon test işi",
+    "customerId": "",
+    "customerName": "",
+    "status": "OLCU_RANDEVU_BEKLIYOR",
+    "startType": "OLCU",
+    "roles": [
+      {
+        "id": "ROLE-01",
+        "name": "PVC Doğrama",
+        "description": "PVC pencere, kapı sistemleri",
+        "productionType": "internal",
+        "requiresGlass": true,
+        "defaultGlassSupplier": null,
+        "estimatedDays": 5,
+        "active": true,
+        "assemblyStages": [
+          {
+            "id": "STG-PVC-01",
+            "name": "PVC Montaj",
+            "order": 1
+          },
+          {
+            "id": "STG-F37398B7",
+            "name": "Vidalama",
+            "order": 2
+          },
+          {
+            "id": "STG-PVC-02",
+            "name": "Cam Takma",
+            "order": 3
+          },
+          {
+            "id": "STG-PVC-03",
+            "name": "Silikon/Bitirme",
+            "order": 4
+          }
+        ],
+        "defaultSupplier": null,
+        "updatedAt": "2026-02-03T19:17:01.363331"
+      }
+    ],
+    "measure": {},
+    "offer": {},
+    "approval": {},
+    "stock": {},
+    "production": {},
+    "assembly": {},
+    "finance": {},
+    "service": {},
+    "roleFiles": {},
+    "rolePrices": {},
+    "logs": [
+      {
+        "at": "2026-02-28T16:37:50.291347",
+        "action": "created",
+        "note": "startType=OLCU",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-28T19:01:24.996150",
+        "action": "deleted",
+        "note": "İş silindi - Sistem Yöneticisi",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      }
+    ],
+    "createdAt": "2026-02-28T16:37:50.291347",
+    "deleted": true,
+    "deletedAt": "2026-02-28T19:01:24.996150",
+    "deletedBy": "USER-ADMIN",
+    "deletedByName": "Sistem Yöneticisi"
+  },
+  {
+    "id": "2026020005",
+    "title": "ekip atama deneme",
+    "customerId": "CST-D985CFB7",
+    "customerName": "deneme",
+    "status": "FIYATLANDIRMA",
+    "startType": "OLCU",
+    "roles": [
+      {
+        "id": "ROLE-01",
+        "name": "PVC Doğrama",
+        "description": "PVC pencere, kapı sistemleri",
+        "productionType": "internal",
+        "requiresGlass": true,
+        "defaultGlassSupplier": null,
+        "estimatedDays": 5,
+        "active": true,
+        "assemblyStages": [
+          {
+            "id": "STG-PVC-01",
+            "name": "PVC Montaj",
+            "order": 1
+          },
+          {
+            "id": "STG-F37398B7",
+            "name": "Vidalama",
+            "order": 2
+          },
+          {
+            "id": "STG-PVC-02",
+            "name": "Cam Takma",
+            "order": 3
+          },
+          {
+            "id": "STG-PVC-03",
+            "name": "Silikon/Bitirme",
+            "order": 4
+          }
+        ],
+        "defaultSupplier": null,
+        "updatedAt": "2026-02-03T19:17:01.363331"
+      },
+      {
+        "id": "ROLE-02",
+        "name": "Cam Balkon",
+        "description": "Cam balkon sistemleri, katlanır cam",
+        "productionType": "internal",
+        "requiresGlass": true,
+        "defaultGlassSupplier": null,
+        "estimatedDays": 4,
+        "active": true,
+        "assemblyStages": [
+          {
+            "id": "STG-CB-01",
+            "name": "Cam Balkon Montaj",
+            "order": 1
+          }
+        ]
+      }
+    ],
+    "measure": {
+      "measurements": {
+        "note": ""
+      },
+      "appointment": {
+        "date": "2026-02-28T10:00"
+      }
+    },
+    "offer": {},
+    "approval": {},
+    "stock": {},
+    "production": {},
+    "assembly": {},
+    "finance": {},
+    "service": {},
+    "roleFiles": {},
+    "rolePrices": {},
+    "logs": [
+      {
+        "at": "2026-02-23T11:38:23.700066",
+        "action": "created",
+        "note": "startType=OLCU",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-28T17:15:09.518360",
+        "action": "status.updated",
+        "note": "OLCU_RANDEVU_BEKLIYOR -> OLCU_RANDEVULU",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-28T17:15:13.469474",
+        "action": "status.updated",
+        "note": "OLCU_RANDEVULU -> OLCU_ALINDI",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-28T17:15:25.124316",
+        "action": "roles.added",
+        "note": "Eklenen: Cam Balkon",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-28T17:46:57.483402",
+        "action": "status.updated",
+        "note": "OLCU_ALINDI -> FIYATLANDIRMA",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-28T19:07:08.202712",
+        "action": "deleted",
+        "note": "İş silindi - Murat Poyraz",
+        "userId": "user_20260219223611_6a9ed0b7",
+        "userName": "Murat Poyraz"
+      }
+    ],
+    "createdAt": "2026-02-23T11:38:23.700066",
+    "deleted": true,
+    "deletedAt": "2026-02-28T19:07:08.202712",
+    "deletedBy": "user_20260219223611_6a9ed0b7",
+    "deletedByName": "Murat Poyraz"
+  },
+  {
+    "id": "2026020004",
+    "title": "test2",
+    "customerId": "CST-D985CFB7",
+    "customerName": "deneme",
+    "status": "OLCU_RANDEVU_BEKLIYOR",
+    "startType": "OLCU",
+    "roles": [
+      {
+        "id": "ROLE-01",
+        "name": "PVC Doğrama",
+        "description": "PVC pencere, kapı sistemleri",
+        "productionType": "internal",
+        "requiresGlass": true,
+        "defaultGlassSupplier": null,
+        "estimatedDays": 5,
+        "active": true,
+        "assemblyStages": [
+          {
+            "id": "STG-PVC-01",
+            "name": "PVC Montaj",
+            "order": 1
+          },
+          {
+            "id": "STG-F37398B7",
+            "name": "Vidalama",
+            "order": 2
+          },
+          {
+            "id": "STG-PVC-02",
+            "name": "Cam Takma",
+            "order": 3
+          },
+          {
+            "id": "STG-PVC-03",
+            "name": "Silikon/Bitirme",
+            "order": 4
+          }
+        ],
+        "defaultSupplier": null,
+        "updatedAt": "2026-02-03T19:17:01.363331"
+      }
+    ],
+    "measure": {},
+    "offer": {},
+    "approval": {},
+    "stock": {},
+    "production": {},
+    "assembly": {},
+    "finance": {},
+    "service": {},
+    "roleFiles": {},
+    "rolePrices": {},
+    "logs": [
+      {
+        "at": "2026-02-20T13:08:59.929437",
+        "action": "created",
+        "note": "startType=OLCU",
+        "userId": "user_20260220145211_2e0e860c",
+        "userName": "ebubekir altan"
+      },
+      {
+        "at": "2026-02-28T19:38:52.091678",
+        "action": "deleted",
+        "note": "İş silindi - Murat Poyraz",
+        "userId": "user_20260219223611_6a9ed0b7",
+        "userName": "Murat Poyraz"
+      }
+    ],
+    "createdAt": "2026-02-20T13:08:59.929437",
+    "deleted": true,
+    "deletedAt": "2026-02-28T19:38:52.091678",
+    "deletedBy": "user_20260219223611_6a9ed0b7",
+    "deletedByName": "Murat Poyraz"
+  },
+  {
+    "id": "2026020003",
+    "title": "aaa",
+    "customerId": "CST-D985CFB7",
+    "customerName": "deneme",
+    "status": "OLCU_RANDEVULU",
+    "startType": "OLCU",
+    "roles": [
+      {
+        "id": "ROLE-01",
+        "name": "PVC Doğrama",
+        "description": "PVC pencere, kapı sistemleri",
+        "productionType": "internal",
+        "requiresGlass": true,
+        "defaultGlassSupplier": null,
+        "estimatedDays": 5,
+        "active": true,
+        "assemblyStages": [
+          {
+            "id": "STG-PVC-01",
+            "name": "PVC Montaj",
+            "order": 1
+          },
+          {
+            "id": "STG-F37398B7",
+            "name": "Vidalama",
+            "order": 2
+          },
+          {
+            "id": "STG-PVC-02",
+            "name": "Cam Takma",
+            "order": 3
+          },
+          {
+            "id": "STG-PVC-03",
+            "name": "Silikon/Bitirme",
+            "order": 4
+          }
+        ],
+        "defaultSupplier": null,
+        "updatedAt": "2026-02-03T19:17:01.363331"
+      }
+    ],
+    "measure": {
+      "measurements": {
+        "note": ""
+      },
+      "appointment": {
+        "date": "2026-02-21T10:00"
+      }
+    },
+    "offer": {},
+    "approval": {},
+    "stock": {},
+    "production": {},
+    "assembly": {},
+    "finance": {},
+    "service": {},
+    "roleFiles": {},
+    "rolePrices": {},
+    "logs": [
+      {
+        "at": "2026-02-19T21:51:36.973118",
+        "action": "created",
+        "note": "startType=OLCU",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-20T09:33:06.154087",
+        "action": "status.updated",
+        "note": "OLCU_RANDEVU_BEKLIYOR -> OLCU_RANDEVULU",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      }
+    ],
+    "createdAt": "2026-02-19T21:51:36.973118"
+  },
+  {
+    "id": "2026020002",
+    "title": "denmeme2",
+    "customerId": "CST-D985CFB7",
+    "customerName": "deneme",
+    "status": "MONTAJA_HAZIR",
+    "startType": "OLCU",
+    "roles": [
+      {
+        "id": "ROLE-01",
+        "name": "PVC Doğrama",
+        "description": "PVC pencere, kapı sistemleri",
+        "productionType": "internal",
+        "requiresGlass": true,
+        "defaultGlassSupplier": null,
+        "estimatedDays": 5,
+        "active": true,
+        "assemblyStages": [
+          {
+            "id": "STG-PVC-01",
+            "name": "PVC Montaj",
+            "order": 1
+          },
+          {
+            "id": "STG-F37398B7",
+            "name": "Vidalama",
+            "order": 2
+          },
+          {
+            "id": "STG-PVC-02",
+            "name": "Cam Takma",
+            "order": 3
+          },
+          {
+            "id": "STG-PVC-03",
+            "name": "Silikon/Bitirme",
+            "order": 4
+          }
+        ],
+        "defaultSupplier": null,
+        "updatedAt": "2026-02-03T19:17:01.363331"
+      },
+      {
+        "id": "ROLE-02",
+        "name": "Cam Balkon",
+        "description": "Cam balkon sistemleri, katlanır cam",
+        "productionType": "internal",
+        "requiresGlass": true,
+        "defaultGlassSupplier": null,
+        "estimatedDays": 4,
+        "active": true,
+        "assemblyStages": [
+          {
+            "id": "STG-CB-01",
+            "name": "Cam Balkon Montaj",
+            "order": 1
+          }
+        ]
+      }
+    ],
+    "measure": {
+      "measurements": {
+        "note": ""
+      },
+      "appointment": {
+        "date": "2026-02-19T10:00"
+      }
+    },
+    "offer": {
+      "total": 1223,
+      "rolePrices": {
+        "ROLE-01": 111,
+        "ROLE-02": 1112
+      },
+      "notifiedDate": "2026-02-19",
+      "agreedDate": "2026-02-19T17:43:01.750Z"
+    },
+    "approval": {
+      "paymentPlan": {
+        "cash": {
+          "amount": 1223,
+          "date": "2026-02-19",
+          "status": "collected",
+          "collectedData": {
+            "collectedAt": "2026-02-20T09:52:36.714Z",
+            "originalAmount": 1223,
+            "collectedAmount": 1223,
+            "isPartial": false,
+            "discountAmount": 0,
+            "discountReason": "",
+            "note": ""
+          }
+        },
+        "card": {
+          "amount": 0,
+          "date": "2026-02-19",
+          "status": "pending"
+        },
+        "cheque": {
+          "total": 0,
+          "received": false,
+          "count": 0,
+          "items": [],
+          "status": "pending"
+        },
+        "afterDelivery": {
+          "amount": 0,
+          "note": "",
+          "status": "pending"
+        },
+        "total": 1223
+      },
+      "contractUrl": null,
+      "stockNeeds": []
+    },
+    "stock": {
+      "ready": true,
+      "purchaseNotes": "Üretime alındı - Stoktan düşüldü",
+      "skipStock": false,
+      "items": [
+        {
+          "id": "STK-34F46D1F",
+          "name": "Carisma Kasa",
+          "productCode": "18300",
+          "colorCode": "3",
+          "qty": 1,
+          "unit": "boy"
+        }
+      ]
+    },
+    "production": {
+      "status": "MONTAJA_HAZIR",
+      "note": null
+    },
+    "assembly": {},
+    "finance": {},
+    "service": {},
+    "roleFiles": {},
+    "rolePrices": {},
+    "logs": [
+      {
+        "at": "2026-02-19T15:59:28.597757",
+        "action": "created",
+        "note": "startType=OLCU",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-19T15:59:34.739760",
+        "action": "status.updated",
+        "note": "OLCU_RANDEVU_BEKLIYOR -> OLCU_RANDEVULU",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-19T15:59:36.103637",
+        "action": "status.updated",
+        "note": "OLCU_RANDEVULU -> OLCU_ALINDI",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-19T15:59:40.332824",
+        "action": "roles.added",
+        "note": "Eklenen: Cam Balkon",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-19T16:00:30.608647",
+        "action": "status.updated",
+        "note": "OLCU_ALINDI -> FIYATLANDIRMA",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-19T17:42:59.778307",
+        "action": "status.updated",
+        "note": "FIYATLANDIRMA -> FIYAT_VERILDI",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-19T17:43:01.752649",
+        "action": "status.updated",
+        "note": "FIYAT_VERILDI -> ANLASMA_YAPILIYOR",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-19T18:19:33.920309",
+        "action": "approval.started",
+        "note": null
+      },
+      {
+        "at": "2026-02-20T09:52:36.721359",
+        "action": "payment.updated",
+        "note": null
+      },
+      {
+        "at": "2026-02-23T13:04:28.699125",
+        "action": "stock.updated",
+        "note": "ready=True, items=1, estimatedDate=None"
+      },
+      {
+        "at": "2026-02-23T17:58:42.517780",
+        "action": "status.updated",
+        "note": "URETIME_HAZIR -> URETIMDE",
+        "userId": "system",
+        "userName": "Sistem"
+      },
+      {
+        "at": "2026-02-23T17:59:14.237929",
+        "action": "production.updated",
+        "note": "MONTAJA_HAZIR"
+      }
+    ],
+    "createdAt": "2026-02-19T15:59:28.597757",
+    "estimatedAssembly": {
+      "date": "2026-02-27",
+      "note": "",
+      "setAt": "2026-02-19T18:19:33.595Z"
+    },
+    "deliveryType": "montajli"
+  },
+  {
+    "id": "2026020001",
+    "title": "deneme",
+    "customerId": "CST-D985CFB7",
+    "customerName": "deneme",
+    "status": "OLCU_ALINDI",
+    "startType": "OLCU",
+    "roles": [
+      {
+        "id": "ROLE-01",
+        "name": "PVC Doğrama",
+        "description": "PVC pencere, kapı sistemleri",
+        "productionType": "internal",
+        "requiresGlass": true,
+        "defaultGlassSupplier": null,
+        "estimatedDays": 5,
+        "active": true,
+        "assemblyStages": [
+          {
+            "id": "STG-PVC-01",
+            "name": "PVC Montaj",
+            "order": 1
+          },
+          {
+            "id": "STG-F37398B7",
+            "name": "Vidalama",
+            "order": 2
+          },
+          {
+            "id": "STG-PVC-02",
+            "name": "Cam Takma",
+            "order": 3
+          },
+          {
+            "id": "STG-PVC-03",
+            "name": "Silikon/Bitirme",
+            "order": 4
+          }
+        ],
+        "defaultSupplier": null,
+        "updatedAt": "2026-02-03T19:17:01.363331"
+      }
+    ],
+    "measure": {
+      "measurements": {
+        "note": ""
+      },
+      "appointment": {
+        "date": "2026-02-19T10:00"
+      }
+    },
+    "offer": {},
+    "approval": {},
+    "stock": {},
+    "production": {},
+    "assembly": {},
+    "finance": {},
+    "service": {},
+    "roleFiles": {},
+    "rolePrices": {},
+    "logs": [
+      {
+        "at": "2026-02-19T13:10:28.578722",
+        "action": "created",
+        "note": "startType=OLCU",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-19T13:11:02.665399",
+        "action": "status.updated",
+        "note": "OLCU_RANDEVU_BEKLIYOR -> OLCU_RANDEVULU",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      },
+      {
+        "at": "2026-02-19T13:11:10.879077",
+        "action": "status.updated",
+        "note": "OLCU_RANDEVULU -> OLCU_ALINDI",
+        "userId": "USER-ADMIN",
+        "userName": "Sistem Yöneticisi"
+      }
+    ],
+    "createdAt": "2026-02-19T13:10:28.578722"
+  }
+]

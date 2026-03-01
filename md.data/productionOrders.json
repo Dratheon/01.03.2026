@@ -1,0 +1,332 @@
+[
+  {
+    "id": "PROD-AB2BE05A",
+    "jobId": "2026020002",
+    "jobTitle": "denmeme2",
+    "customerName": "deneme",
+    "roleId": "ROLE-02",
+    "roleName": "Cam Balkon",
+    "orderType": "glass",
+    "supplierId": "SUP-868EF234",
+    "supplierName": "Niğcam",
+    "items": [
+      {
+        "glassType": "4+16+4 ",
+        "glassName": "SİNERJİ",
+        "quantity": 1,
+        "unit": "adet",
+        "combination": "4+16+4",
+        "notes": null,
+        "receivedQty": 1,
+        "problemQty": 0
+      }
+    ],
+    "documentUrl": null,
+    "estimatedDelivery": "2026-03-02",
+    "plannedDate": null,
+    "notes": "",
+    "status": "completed",
+    "productionStartedAt": null,
+    "productionCompletedAt": "2026-02-23T17:59:10.229620",
+    "firstDeliveryAt": "2026-02-23",
+    "delays": [],
+    "totalDelayDays": 0,
+    "isDelayed": false,
+    "issues": [],
+    "deliveryHistory": [
+      {
+        "id": "DEL-0106FB19",
+        "date": "2026-02-23",
+        "note": "",
+        "documentUrl": null,
+        "items": [
+          {
+            "lineIndex": 0,
+            "receivedQty": 1,
+            "problemQty": 0,
+            "problemType": "",
+            "problemNote": ""
+          }
+        ],
+        "createdAt": "2026-02-23T17:59:10.229620"
+      }
+    ],
+    "createdAt": "2026-02-23T17:58:42.471692",
+    "updatedAt": "2026-02-23T17:59:10.229620"
+  },
+  {
+    "id": "PROD-CAD73EAA",
+    "jobId": "2026020002",
+    "jobTitle": "denmeme2",
+    "customerName": "deneme",
+    "roleId": "ROLE-02",
+    "roleName": "Cam Balkon",
+    "orderType": "internal",
+    "supplierId": "",
+    "supplierName": "",
+    "items": [
+      {
+        "glassType": null,
+        "glassName": null,
+        "quantity": 1,
+        "unit": "adet",
+        "combination": null,
+        "notes": "deneme",
+        "receivedQty": 1,
+        "problemQty": 0
+      }
+    ],
+    "documentUrl": null,
+    "estimatedDelivery": "2026-02-27",
+    "plannedDate": null,
+    "notes": "",
+    "status": "completed",
+    "productionStartedAt": null,
+    "productionCompletedAt": "2026-02-23T17:59:07.355021",
+    "firstDeliveryAt": "2026-02-23",
+    "delays": [],
+    "totalDelayDays": 0,
+    "isDelayed": false,
+    "issues": [],
+    "deliveryHistory": [
+      {
+        "id": "DEL-6BDDBED1",
+        "date": "2026-02-23",
+        "note": "",
+        "documentUrl": null,
+        "items": [
+          {
+            "lineIndex": 0,
+            "receivedQty": 1,
+            "problemQty": 0,
+            "problemType": "",
+            "problemNote": ""
+          }
+        ],
+        "createdAt": "2026-02-23T17:59:07.355021"
+      }
+    ],
+    "createdAt": "2026-02-23T17:58:42.442625",
+    "updatedAt": "2026-02-23T17:59:07.355021"
+  },
+  {
+    "id": "PROD-25E3CC04",
+    "jobId": "2026020002",
+    "jobTitle": "denmeme2",
+    "customerName": "deneme",
+    "roleId": "ROLE-01",
+    "roleName": "PVC Doğrama",
+    "orderType": "glass",
+    "supplierId": "SUP-868EF234",
+    "supplierName": "Niğcam",
+    "items": [
+      {
+        "glassType": "4+16+4 ",
+        "glassName": "SİNERJİ",
+        "quantity": 2,
+        "unit": "adet",
+        "combination": "4+16+4",
+        "notes": null,
+        "receivedQty": 2,
+        "problemQty": 0
+      }
+    ],
+    "documentUrl": null,
+    "estimatedDelivery": "2026-03-05",
+    "plannedDate": null,
+    "notes": "",
+    "status": "completed",
+    "productionStartedAt": null,
+    "productionCompletedAt": "2026-02-23T17:58:55.663244",
+    "firstDeliveryAt": "2026-02-23",
+    "delays": [],
+    "totalDelayDays": 0,
+    "isDelayed": false,
+    "issues": [],
+    "deliveryHistory": [
+      {
+        "id": "DEL-DF1CB4B1",
+        "date": "2026-02-23",
+        "note": "",
+        "documentUrl": null,
+        "items": [
+          {
+            "lineIndex": 0,
+            "receivedQty": 2,
+            "problemQty": 0,
+            "problemType": "",
+            "problemNote": ""
+          }
+        ],
+        "createdAt": "2026-02-23T17:58:55.663244"
+      }
+    ],
+    "createdAt": "2026-02-23T17:05:24.159740",
+    "updatedAt": "2026-02-23T17:58:55.663244"
+  },
+  {
+    "id": "PROD-3BC580C2",
+    "jobId": "2026020002",
+    "jobTitle": "denmeme2",
+    "customerName": "deneme",
+    "roleId": "ROLE-01",
+    "roleName": "PVC Doğrama",
+    "orderType": "internal",
+    "supplierId": "",
+    "supplierName": "",
+    "items": [
+      {
+        "glassType": null,
+        "glassName": null,
+        "quantity": 2,
+        "unit": "adet",
+        "combination": null,
+        "notes": "denemee",
+        "receivedQty": 2,
+        "problemQty": 0
+      }
+    ],
+    "documentUrl": null,
+    "estimatedDelivery": "2026-02-28",
+    "plannedDate": null,
+    "notes": "",
+    "status": "completed",
+    "productionStartedAt": null,
+    "productionCompletedAt": "2026-02-23T17:58:52.391101",
+    "firstDeliveryAt": "2026-02-23",
+    "delays": [],
+    "totalDelayDays": 0,
+    "isDelayed": false,
+    "issues": [],
+    "deliveryHistory": [
+      {
+        "id": "DEL-215869E9",
+        "date": "2026-02-23",
+        "note": "",
+        "documentUrl": null,
+        "items": [
+          {
+            "lineIndex": 0,
+            "receivedQty": 2,
+            "problemQty": 0,
+            "problemType": "",
+            "problemNote": ""
+          }
+        ],
+        "createdAt": "2026-02-23T17:58:52.391101"
+      }
+    ],
+    "createdAt": "2026-02-23T17:05:24.134695",
+    "updatedAt": "2026-02-23T17:58:52.391101"
+  },
+  {
+    "id": "PROD-F78BFB57",
+    "jobId": "2026020002",
+    "jobTitle": "denmeme2",
+    "customerName": "deneme",
+    "roleId": "ROLE-01",
+    "roleName": "PVC Doğrama",
+    "orderType": "internal",
+    "supplierId": "",
+    "supplierName": "",
+    "items": [
+      {
+        "glassType": null,
+        "glassName": null,
+        "quantity": 2,
+        "unit": "adet",
+        "combination": null,
+        "notes": "deneme",
+        "receivedQty": 2,
+        "problemQty": 0
+      }
+    ],
+    "documentUrl": null,
+    "estimatedDelivery": "2026-02-28",
+    "plannedDate": null,
+    "notes": "",
+    "status": "completed",
+    "productionStartedAt": null,
+    "productionCompletedAt": "2026-02-23T17:58:48.146435",
+    "firstDeliveryAt": "2026-02-23",
+    "delays": [],
+    "totalDelayDays": 0,
+    "isDelayed": false,
+    "issues": [],
+    "deliveryHistory": [
+      {
+        "id": "DEL-7F1E616D",
+        "date": "2026-02-23",
+        "note": "",
+        "documentUrl": null,
+        "items": [
+          {
+            "lineIndex": 0,
+            "receivedQty": 2,
+            "problemQty": 0,
+            "problemType": "",
+            "problemNote": ""
+          }
+        ],
+        "createdAt": "2026-02-23T17:58:48.146435"
+      }
+    ],
+    "createdAt": "2026-02-23T17:05:20.534709",
+    "updatedAt": "2026-02-23T17:58:48.146435"
+  },
+  {
+    "id": "PROD-9AEB499B",
+    "jobId": "2026020002",
+    "jobTitle": "denmeme2",
+    "customerName": "deneme",
+    "roleId": "ROLE-01",
+    "roleName": "PVC Doğrama",
+    "orderType": "internal",
+    "supplierId": "",
+    "supplierName": "",
+    "items": [
+      {
+        "glassType": null,
+        "glassName": null,
+        "quantity": 2,
+        "unit": "adet",
+        "combination": null,
+        "notes": "denemne",
+        "receivedQty": 2,
+        "problemQty": 0
+      }
+    ],
+    "documentUrl": null,
+    "estimatedDelivery": "2026-02-28",
+    "plannedDate": null,
+    "notes": "",
+    "status": "completed",
+    "productionStartedAt": null,
+    "productionCompletedAt": "2026-02-23T17:40:03.595402",
+    "firstDeliveryAt": "2026-02-23",
+    "delays": [],
+    "totalDelayDays": 0,
+    "isDelayed": false,
+    "issues": [],
+    "deliveryHistory": [
+      {
+        "id": "DEL-D19DD66F",
+        "date": "2026-02-23",
+        "note": "",
+        "documentUrl": null,
+        "items": [
+          {
+            "lineIndex": 0,
+            "receivedQty": 2,
+            "problemQty": 0,
+            "problemType": "",
+            "problemNote": ""
+          }
+        ],
+        "createdAt": "2026-02-23T17:40:03.595402"
+      }
+    ],
+    "createdAt": "2026-02-23T16:57:22.711485",
+    "updatedAt": "2026-02-23T17:40:03.595402"
+  }
+]

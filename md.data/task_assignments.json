@@ -1,0 +1,24 @@
+[
+  {
+    "id": "TA-741CBED4",
+    "taskId": "TSK-1AF73892",
+    "assigneeType": "personnel",
+    "assigneeId": "PER-4099BB74",
+    "assignedBy": null,
+    "note": "",
+    "active": true,
+    "createdAt": "2026-02-23T16:12:54.521571",
+    "deleted": false
+  },
+  {
+    "id": "TA-BCEA8D98",
+    "taskId": "TSK-6D735641",
+    "assigneeType": "personnel",
+    "assigneeId": "PER-4099BB74",
+    "assignedBy": null,
+    "note": "",
+    "active": true,
+    "createdAt": "2026-02-23T17:07:26.375924",
+    "deleted": false
+  }
+]

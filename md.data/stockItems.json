@@ -1,0 +1,34 @@
+[
+  {
+    "id": "STK-3E3DD8BC",
+    "productCode": "001",
+    "colorCode": "0",
+    "name": "USS 24mm Cam Takozu",
+    "colorName": "0",
+    "unit": "adet",
+    "supplierId": "SUP-A0F91ECF",
+    "supplierName": "Artı Yapı",
+    "onHand": 1000,
+    "reserved": 0,
+    "critical": 100.0,
+    "unitCost": 0.0,
+    "notes": "",
+    "lastUpdated": "2026-02-20"
+  },
+  {
+    "id": "STK-34F46D1F",
+    "productCode": "18300",
+    "colorCode": "3",
+    "name": "Carisma Kasa",
+    "colorName": "BEYAZ",
+    "unit": "boy",
+    "supplierId": "SUP-44ADB79C",
+    "supplierName": "Ege Profil",
+    "onHand": 52.0,
+    "reserved": 0,
+    "critical": 10.0,
+    "unitCost": 1000.0,
+    "notes": "",
+    "lastUpdated": "2026-02-28"
+  }
+]
