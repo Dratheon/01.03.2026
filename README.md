@@ -1,1 +1,2 @@
-# 01.03.2026 "test" dosyası md.servise içne atılacak.
+# pvcWebProject
+backend restart = py -m uvicorn app.main:app --reload --port 8000
